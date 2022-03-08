@@ -1,0 +1,3 @@
+-데이터들은 용량이 커서 압축파일로 올려두었음
+-수집한 데이터는 train_data 폴더로 / 기본 데이터는 datasets 폴더 생성하고 폴더 안에 coco2017 압축파일 풀어서 사용
+-runs/train/exp4 에 학습된 파일이 있고 runs/detect/detect/exp4 에 정확도 측정한 결과가 있음
